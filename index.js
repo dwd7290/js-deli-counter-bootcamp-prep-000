@@ -29,6 +29,7 @@ function currentLine(katzDeliLine) {
   } else {
     return "The line is currently empty.";
   }
+  return line;
 }
 
 katzDeli = ["Steven", "Blake", "Avi", "Grace"];
