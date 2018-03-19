@@ -34,4 +34,4 @@ function currentLine(katzDeliLine) {
 
 katzDeli = ["Steven", "Blake", "Avi", "Grace"];
 
-currentLine(katzDeli);
+console.log(currentLine(katzDeli));
